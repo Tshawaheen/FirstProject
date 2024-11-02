@@ -1,0 +1,28 @@
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+
+public class TheFirstProject {
+	
+	@BeforeTest
+	
+	public void BeforeMyTest () {
+		
+		
+		System.out.println("Tareq");
+		
+	}
+	
+	
+	@Test
+
+	public void TheWebSiteTesting  () {
+		
+		
+		
+	}
+	
+	
+	
+	
+
+}

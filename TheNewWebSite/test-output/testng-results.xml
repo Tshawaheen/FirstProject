@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-03T02:08:13 EET" name="Default suite" finished-at="2024-11-03T02:09:01 EET" duration-ms="48160">
+    <groups>
+    </groups>
+    <test started-at="2024-11-03T02:08:13 EET" name="Default test" finished-at="2024-11-03T02:09:01 EET" duration-ms="48160">
+      <class name="TheFirstProject">
+        <test-method is-config="true" signature="BeforeMyTest()[pri:0, instance:TheFirstProject@1b765a2c]" started-at="2024-11-03T02:08:13 EET" name="BeforeMyTest" finished-at="2024-11-03T02:08:15 EET" duration-ms="2424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMyTest -->
+        <test-method signature="SignUpTest()[pri:1, instance:TheFirstProject@1b765a2c]" started-at="2024-11-03T02:08:15 EET" name="SignUpTest" finished-at="2024-11-03T02:08:26 EET" duration-ms="10385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method signature="LogOutTest()[pri:2, instance:TheFirstProject@1b765a2c]" started-at="2024-11-03T02:08:26 EET" name="LogOutTest" finished-at="2024-11-03T02:08:33 EET" duration-ms="6885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOutTest -->
+        <test-method signature="LoginTest()[pri:3, instance:TheFirstProject@1b765a2c]" started-at="2024-11-03T02:08:33 EET" name="LoginTest" finished-at="2024-11-03T02:08:38 EET" duration-ms="4943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="AddItemToTheCart()[pri:4, instance:TheFirstProject@1b765a2c]" started-at="2024-11-03T02:08:38 EET" name="AddItemToTheCart" finished-at="2024-11-03T02:09:01 EET" duration-ms="23458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemToTheCart -->
+      </class> <!-- TheFirstProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

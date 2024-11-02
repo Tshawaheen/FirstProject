@@ -1,0 +1,23 @@
+
+public class TheFirstProject {
+	
+	@BeforeTest
+	
+	public void () {
+		
+		
+	}
+	
+	
+	@Test
+	Public void () {
+		
+		
+		
+	}
+	
+	
+	
+	
+
+}
